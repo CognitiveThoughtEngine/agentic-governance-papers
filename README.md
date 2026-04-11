@@ -154,7 +154,7 @@ Argues that economic harm is a distinct AI safety dimension requiring dedicated 
 
 Status: In draft | [Draft details](papers/paper8-living-constitutions-draft.md)
 
-Proposes living constitutions — governance documents with formal amendment processes, ratification gates, citation mandates, and continuous enforcement verification — as the missing primitive for governing AI systems that must adapt without losing accountability continuity. Presents 64 constitutional amendments across 97 days of production operation and maps the architecture to EU AI Act Article 27 FRIA requirements.
+Proposes living constitutions — governance documents with formal amendment processes, ratification gates, citation mandates, and continuous enforcement verification — as the missing primitive for governing AI systems that must adapt without losing accountability continuity. Presents 64 constitutional amendments across 98 days of production operation and maps the architecture to EU AI Act Article 27 FRIA requirements.
 
 ---
 
