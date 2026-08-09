@@ -4,11 +4,13 @@
 
 Published by [Cognitive Thought Engine LLC](https://cognitivethoughtengine.com) — Texas-based AI governance research organization.
 
+**This repository holds the original five-paper CTE research set.** For the current DOI-backed research record, dated verification methods, and evidence boundaries, see [PubPoint Facts & Evidence](https://pubpoint.com/facts-evidence/).
+
 ---
 
 ## Mission
 
-We build and study autonomous AI organizations operating under constitutional constraints. Our research is grounded in a live production system (HRAO-E) that has operated for 97+ days, governing 54 registered agents, processing ~153 autonomous decisions per day, and managing $720/month in operational spend — all without day-to-day human intervention.
+We build and study autonomous AI organizations operating under constitutional constraints. Our research is grounded in a live production system (HRAO-E) that has operated for over 200 days, governing dozens of registered agents processing autonomous decisions daily — all without day-to-day human intervention. Current operational figures: [PubPoint Facts & Evidence](https://pubpoint.com/facts-evidence/).
 
 The central thesis: autonomous AI systems that acquire economic authority, communication channels, and the ability to take irreversible actions at scale require a governance layer that existing frameworks do not provide. Behavioral guardrails govern *how* agents act. Identity systems govern *who* acts. Neither addresses *why* — the constitutional operating principles that determine whether an agent's decisions are structurally aligned with organizational survival, mission fidelity, and economic sustainability.
 
@@ -22,7 +24,7 @@ The central thesis: autonomous AI systems that acquire economic authority, commu
 
 DOI: [10.5281/zenodo.18217577](https://doi.org/10.5281/zenodo.18217577) | [Full details](papers/paper1-dli.md)
 
-Introduces the Decision Load Index — a composite metric for quantifying cognitive load in AI-augmented workplaces. Presents validation data from 900+ users, a ten-item diagnostic instrument, and evidence that high DLI predicts burnout, disengagement, and organizational friction. Establishes the measurement foundation for AI-mediated work design.
+Introduces the Decision Load Index — a composite metric for quantifying cognitive load in AI-augmented workplaces. Presents validation data from 900+ users, a ten-item diagnostic instrument, and evidence that high DLI correlates with burnout, disengagement, and organizational friction. Establishes the measurement foundation for AI-mediated work design.
 
 ```bibtex
 @article{saleme2026dli,
@@ -44,7 +46,7 @@ Introduces the Decision Load Index — a composite metric for quantifying cognit
 
 DOI: [10.5281/zenodo.19162104](https://doi.org/10.5281/zenodo.19162104) | [Full details](papers/paper2-csg.md)
 
-Presents the HRAO-E constitutional architecture — a formal governance system for autonomous AI organizations. Introduces 17 hard constraints enforced as runtime code prohibitions, a six-gate pre-execution evaluation framework, and a self-amending governance protocol. Demonstrates 90+ days of production operation with zero constitutional violations.
+Presents the HRAO-E constitutional architecture — a formal governance system for autonomous AI organizations. Introduces 17 hard constraints enforced as runtime code prohibitions, a six-gate pre-execution evaluation framework, and a self-amending governance protocol. Demonstrates sustained production operation with zero constitutional violations.
 
 ```bibtex
 @article{saleme2026csg,
@@ -175,7 +177,7 @@ The governance architectures described in these papers are implemented in open-s
 
 | Repository | Description | Status |
 |------------|-------------|--------|
-| [constitutional-agent](https://github.com/CognitiveThoughtEngine/constitutional-agent) | Python library: six-gate governance, hard constraints, RALPH loop | Active |
+| [constitutional-agent-governance](https://github.com/CognitiveThoughtEngine/constitutional-agent-governance) | Python library: six-gate governance, hard constraints, RALPH loop | Active |
 | [cgst-framework](https://github.com/CognitiveThoughtEngine/cgst-framework) | Constitutional Governance Self-Testing framework | Active |
 | [PyPI: constitutional-agent](https://pypi.org/project/constitutional-agent/) | Installable package | Published |
 
