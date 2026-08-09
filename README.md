@@ -162,12 +162,13 @@ Proposes living constitutions — governance documents with formal amendment pro
 
 ## NIST Engagement
 
-CTE has submitted formal comments to two NIST initiatives. See [NIST.md](NIST.md) for full details.
+CTE has submitted three formal public comments to NIST-affiliated initiatives. See [NIST.md](NIST.md) for full details.
 
 | Submission | Framework | Status |
 |------------|-----------|--------|
-| NIST SP 800-2 Comment | Multi-Party Cryptography | Submitted, acknowledged by CAISI |
+| NIST AI 800-2 Comment | Automated Benchmark Evaluations | Submitted, acknowledged by CAISI |
 | Agent Identity RFI | AI Agent Identity Framework | Submitted, acknowledged by CAISI |
+| NCCoE Comment | Identity and Authorization | Submitted |
 
 ---
 
