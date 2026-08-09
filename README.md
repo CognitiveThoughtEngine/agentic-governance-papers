@@ -10,7 +10,7 @@ Published by [Cognitive Thought Engine LLC](https://cognitivethoughtengine.com) 
 
 ## Mission
 
-We build and study autonomous AI organizations operating under constitutional constraints. Our research is grounded in a live production system (HRAO-E) that has operated for over 200 days, governing dozens of registered agents processing autonomous decisions daily — all without day-to-day human intervention. Current operational figures: [PubPoint Facts & Evidence](https://pubpoint.com/facts-evidence/).
+We build and study autonomous AI organizations operating under constitutional constraints. Our research is grounded in HRAO-E, a live governed reference environment that has operated for over 200 days, governing dozens of registered agents processing autonomous decisions daily — all without day-to-day human intervention. Current operational figures: [PubPoint Facts & Evidence](https://pubpoint.com/facts-evidence/).
 
 The central thesis: autonomous AI systems that acquire economic authority, communication channels, and the ability to take irreversible actions at scale require a governance layer that existing frameworks do not provide. Behavioral guardrails govern *how* agents act. Identity systems govern *who* acts. Neither addresses *why* — the constitutional operating principles that determine whether an agent's decisions are structurally aligned with organizational survival, mission fidelity, and economic sustainability.
 
@@ -24,7 +24,7 @@ The central thesis: autonomous AI systems that acquire economic authority, commu
 
 DOI: [10.5281/zenodo.18217577](https://doi.org/10.5281/zenodo.18217577) | [Full details](papers/paper1-dli.md)
 
-Introduces the Decision Load Index — a composite metric for quantifying cognitive load in AI-augmented workplaces. Presents validation data from 900+ users, a ten-item diagnostic instrument, and evidence that high DLI correlates with burnout, disengagement, and organizational friction. Establishes the measurement foundation for AI-mediated work design.
+Introduces the Decision Load Index — a composite metric for quantifying cognitive load in AI-augmented workplaces. Presents results from a self-selected sample of 900+ users, a ten-item diagnostic instrument, and evidence that high DLI correlates with burnout, disengagement, and organizational friction. Establishes the measurement foundation for AI-mediated work design.
 
 ```bibtex
 @article{saleme2026dli,
@@ -46,7 +46,7 @@ Introduces the Decision Load Index — a composite metric for quantifying cognit
 
 DOI: [10.5281/zenodo.19162104](https://doi.org/10.5281/zenodo.19162104) | [Full details](papers/paper2-csg.md)
 
-Presents the HRAO-E constitutional architecture — a formal governance system for autonomous AI organizations. Introduces 17 hard constraints enforced as runtime code prohibitions, a six-gate pre-execution evaluation framework, and a self-amending governance protocol. Demonstrates sustained production operation with zero constitutional violations.
+Presents the HRAO-E constitutional architecture — a formal governance system for autonomous AI organizations. Introduces 17 hard constraints enforced as runtime code prohibitions, a six-gate pre-execution evaluation framework, and a self-amending governance protocol. Demonstrates sustained production operation with no recorded constitutional violations in the stated observation window, bounded by the system's own logging coverage.
 
 ```bibtex
 @article{saleme2026csg,
@@ -128,23 +128,23 @@ Analyzes the community-level security risks that emerge when autonomous AI agent
 
 ---
 
-## Upcoming Papers
+## Historical Draft Concepts
 
-### Paper 6 — Six-Gate Constitutional Governance (Under Review)
+### Paper 6 — Six-Gate Constitutional Governance (Internal Pre-Submission Draft)
 
 **"Constitutional Governance for Autonomous Multi-Agent Systems: A Six-Gate Architecture in Production"**
 
-Status: Pre-submission review | [Draft details](papers/paper6-six-gate-draft.md)
+Status: Internal pre-submission draft | [Draft details](papers/paper6-six-gate-draft.md)
 
 Presents the complete six-gate constitutional governance architecture (EG, RG, GG, EPG, AAG, CGG) deployed in production for 95+ days. Introduces the three-tier governance model (WHO/HOW/WHY), the RALPH Loop resilience protocol, and the PRE_REVENUE economic stage. Provides empirical data from 95 days of live multi-agent operation.
 
 ---
 
-### Paper 7 — Economic Safety Gates (Under Review)
+### Paper 7 — Economic Safety Gates (Internal Pre-Submission Draft)
 
 **"AI Economic Safety Gates: Formalizing Economic Harm Prevention in Autonomous Agent Systems"**
 
-Status: Pre-submission review | [Draft details](papers/paper7-economic-safety-draft.md)
+Status: Internal pre-submission draft | [Draft details](papers/paper7-economic-safety-draft.md)
 
 Argues that economic harm is a distinct AI safety dimension requiring dedicated enforcement mechanisms. Presents the Economic Profitability Gate (EPG) architecture, Amendment 59's PRE_REVENUE stage resolution, and 96 days of production evidence. Situates economic harm against NIST AI RMF, EU AI Act, and OWASP LLM Top 10 — none of which address it as a formal safety category.
 
